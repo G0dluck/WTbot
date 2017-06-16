@@ -1,0 +1,39 @@
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Bot Application1.dll.config
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Bot Application1.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Bot Application1.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Autofac.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Chronic.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Newtonsoft.Json.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.Net.Http.Formatting.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.Web.Http.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.Web.Http.WebHost.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Autofac.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Newtonsoft.Json.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.Net.Http.Formatting.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.Web.Http.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.Web.Http.WebHost.xml
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\obj\Debug\WTbot.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\obj\Debug\Bot Application1.dll
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\obj\Debug\Bot Application1.pdb
