@@ -1,18 +1,6 @@
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Bot Application1.dll.config
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Bot Application1.dll
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Bot Application1.pdb
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Autofac.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Chronic.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Bot.Builder.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Bot.Connector.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Rest.ClientRuntime.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.WindowsAzure.Configuration.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Newtonsoft.Json.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.Net.Http.Formatting.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.Web.Http.dll
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\System.Web.Http.WebHost.dll
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Autofac.xml
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Bot.Builder.xml
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Bot.Connector.xml
@@ -35,7 +23,6 @@ C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\zh-hans\Mic
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\obj\Debug\WTbot.csprojResolveAssemblyReference.cache
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\obj\Debug\Bot Application1.dll
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\obj\Debug\Bot Application1.pdb
-C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Bot.Builder.Autofac.dll
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\Microsoft.Bot.Builder.Autofac.xml
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\cs\Microsoft.Bot.Builder.resources.dll
 C:\Users\Anton\Documents\Visual Studio 2015\Projects\WTbot\WTbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll

@@ -8,7 +8,7 @@ using System.Web.Http.Description;
 using Microsoft.Bot.Connector;
 using Newtonsoft.Json;
 
-namespace WTbot
+namespace SimpleDialogBot
 {
     [BotAuthentication]
     public class MessagesController : ApiController
@@ -22,11 +22,14 @@ namespace WTbot
             if (activity.Type == ActivityTypes.Message)
             {
                 ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
-                // calculate something for us to return
-                int length = (activity.Text ?? string.Empty).Length;
-
-                // return our reply to the user
-                Activity reply = activity.CreateReply($"You sent {activity.Text} which was {length} characters");
+                var State = activity.GetStateClient();
+                var UserData = await State.BotState.GetUserDataAsync(activity.ChannelId, activity.From.Id);
+                var x = UserData.GetProperty<WeatherParam>("weather");
+                if (x != null) WP = x;
+                var rep = await Reply(activity.Text);
+                Activity reply = activity.CreateReply(rep);
+                UserData.SetProperty<WeatherParam>("weather", WP);
+                await State.BotState.SetUserDataAsync(activity.ChannelId, activity.From.Id, UserData);
                 await connector.Conversations.ReplyToActivityAsync(reply);
             }
             else
@@ -35,6 +38,28 @@ namespace WTbot
             }
             var response = Request.CreateResponse(HttpStatusCode.OK);
             return response;
+        }
+
+        WeatherParam WP = new WeatherParam();
+
+        async Task<string> Reply(string msg)
+        {
+            var a = msg.ToLower().Split(' ');
+            if (a.IsPresent("help"))
+            {
+                return @"This is a simple weather bot.
+Example of commands include:
+  temperature today
+  temperature in Moscow
+  humidity tomorrow";
+            }
+            if (a.IsPresent("temperature")) WP.MeasurementType = Measurement.Temp;
+            if (a.IsPresent("humidity")) WP.MeasurementType = Measurement.Humidity;
+            if (a.IsPresent("pressure")) WP.MeasurementType = Measurement.Pressure;
+            if (a.IsPresent("today")) { WP.Today(); }
+            if (a.IsPresent("tomorrow")) { WP.Tomorrow(); }
+            if (a.NextTo("in") != "") WP.Location = a.NextTo("in");
+            return await WP.BuildResult();
         }
 
         private Activity HandleSystemMessage(Activity message)
