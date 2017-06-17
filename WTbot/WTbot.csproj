@@ -196,7 +196,6 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <Content Include="bin\Bot Application1.dll.config" />
-    <Content Include="obj\Debug\build.force" />
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <Content Include="obj\Debug\WTbot.csprojResolveAssemblyReference.cache" />
     <None Include="Web.Debug.config">
